@@ -1,0 +1,10 @@
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomActivityLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomActivityLibrary\bin\Debug\CustomActivityLibrary.dll
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomActivityLibrary\bin\Debug\CustomActivityLibrary.pdb
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomActivityLibrary\obj\Debug\CustomActivityLibrary.dll
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomActivityLibrary\obj\Debug\CustomActivityLibrary.pdb
+C:\Demo\CustomWorkflowService\CustomActivityLibrary\bin\Debug\CustomActivityLibrary.dll
+C:\Demo\CustomWorkflowService\CustomActivityLibrary\bin\Debug\CustomActivityLibrary.pdb
+C:\Demo\CustomWorkflowService\CustomActivityLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\CustomWorkflowService\CustomActivityLibrary\obj\Debug\CustomActivityLibrary.dll
+C:\Demo\CustomWorkflowService\CustomActivityLibrary\obj\Debug\CustomActivityLibrary.pdb

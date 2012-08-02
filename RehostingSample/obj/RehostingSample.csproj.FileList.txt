@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RehostingSample.Properties.Resources.resources
+obj\Debug\RehostingSample.csproj.GenerateResource.Cache
+bin\Debug\RehostingSample.exe
+bin\Debug\RehostingSample.pdb
+obj\Debug\RehostingSample.exe
+obj\Debug\RehostingSample.pdb
+obj\Debug\RehostingSample.Form1.resources

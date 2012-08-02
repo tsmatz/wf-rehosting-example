@@ -1,0 +1,14 @@
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomWorkflowLibrary\bin\Debug\CustomWorkflowLibrary.dll
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomWorkflowLibrary\bin\Debug\CustomWorkflowLibrary.pdb
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomWorkflowLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomWorkflowLibrary\obj\Debug\CustomWorkflowLibrary.dll
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomWorkflowLibrary\obj\Debug\CustomWorkflowLibrary.pdb
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomWorkflowLibrary\bin\Debug\CustomActivityLibrary.dll
+C:\Demo\TechED\RehostingDemo\CustomWorkflowService\CustomWorkflowLibrary\bin\Debug\CustomActivityLibrary.pdb
+C:\Demo\CustomWorkflowService\CustomWorkflowLibrary\bin\Debug\CustomWorkflowLibrary.dll
+C:\Demo\CustomWorkflowService\CustomWorkflowLibrary\bin\Debug\CustomWorkflowLibrary.pdb
+C:\Demo\CustomWorkflowService\CustomWorkflowLibrary\bin\Debug\CustomActivityLibrary.dll
+C:\Demo\CustomWorkflowService\CustomWorkflowLibrary\bin\Debug\CustomActivityLibrary.pdb
+C:\Demo\CustomWorkflowService\CustomWorkflowLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\CustomWorkflowService\CustomWorkflowLibrary\obj\Debug\CustomWorkflowLibrary.dll
+C:\Demo\CustomWorkflowService\CustomWorkflowLibrary\obj\Debug\CustomWorkflowLibrary.pdb

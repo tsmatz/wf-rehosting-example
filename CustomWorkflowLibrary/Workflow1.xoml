@@ -1,0 +1,25 @@
+<SequentialWorkflowActivity x:Class="CustomWorkflowLibrary.Workflow1" x:Name="Workflow1" xmlns:ns0="clr-namespace:System.Workflow.Activities;Assembly=System.WorkflowServices, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" xmlns:ns1="clr-namespace:CustomActivityLibrary;Assembly=CustomActivityLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/workflow">
+	<ns0:ReceiveActivity.WorkflowServiceAttributes>
+		<ns0:WorkflowServiceAttributes Name="Workflow1" ConfigurationName="CustomWorkflowLibrary.Workflow1" />
+	</ns0:ReceiveActivity.WorkflowServiceAttributes>
+	<ns0:ReceiveActivity x:Name="receiveActivity1" CanCreateInstance="True">
+		<ns0:ReceiveActivity.ServiceOperationInfo>
+			<ns0:TypedOperationInfo Name="CalcData" ContractType="{x:Type p8:IWorkflow1}" xmlns:p8="clr-namespace:CustomWorkflowLibrary;Assembly=CustomWorkflowLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+		</ns0:ReceiveActivity.ServiceOperationInfo>
+		<ns0:ReceiveActivity.ParameterBindings>
+			<WorkflowParameterBinding ParameterName="value">
+				<WorkflowParameterBinding.Value>
+					<ActivityBind Name="Workflow1" Path="paramValue" />
+				</WorkflowParameterBinding.Value>
+			</WorkflowParameterBinding>
+			<WorkflowParameterBinding ParameterName="(ReturnValue)">
+				<WorkflowParameterBinding.Value>
+					<ActivityBind Name="Workflow1" Path="paramValue" />
+				</WorkflowParameterBinding.Value>
+			</WorkflowParameterBinding>
+		</ns0:ReceiveActivity.ParameterBindings>
+		<ns1:Add3Activity CalcValueProperty="{ActivityBind Workflow1,Path=paramValue}" x:Name="add3Activity1" />
+		<CancellationHandlerActivity x:Name="cancellationHandlerActivity1" />
+		<ns1:Multiple3Activity CalcValueProperty="{ActivityBind Workflow1,Path=paramValue}" x:Name="multiple3Activity1" />
+	</ns0:ReceiveActivity>
+</SequentialWorkflowActivity>
